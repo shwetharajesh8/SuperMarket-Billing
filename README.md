@@ -6,6 +6,7 @@ This project is based on generating bills in a Super Market.
 
 To run this project, you need to :
 - Install CodeBlocks
+    https://www.codeblocks.org/downloads/binaries/
 - Download the .cpp file
 - Open the .cpp file in CodeBlocks
 - Debug and Run the program
